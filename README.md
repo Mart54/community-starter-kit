@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An interest way to see how github works
 
 ## What it does
 
-FEATURES PLACEHOLDER
+He's like my boss, he gives me works!
 
 ## Getting started
 
